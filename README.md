@@ -1,0 +1,1 @@
+Basic outputting variables to the console learning excercise. 
